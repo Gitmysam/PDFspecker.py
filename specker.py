@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 20 11:40:29 2020
+
+@author: User
+"""
+
 import pyttsx3
 import PyPDF2
 book=open('keph202.pdf','rb')
